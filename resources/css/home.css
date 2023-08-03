@@ -1,0 +1,32 @@
+.introduction {
+  margin: 15px auto 15px auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.pic {
+  width: 100%;
+  height: auto;
+}
+.pic img {
+  width: 100%;
+}
+
+.intro {
+  width: 100%;
+  height: auto;
+}
+.intro p {
+  padding: 5px;
+
+  text-indent: 15px;
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5em;
+  color: #334355;
+  text-decoration: none;
+}
