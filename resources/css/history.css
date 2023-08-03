@@ -1,0 +1,56 @@
+.page-title {
+  width: 100%;
+  height: auto;
+}
+.page-title h2 {
+  padding: 15px 0;
+  font-family: "Raleway", sans-serif;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5em;
+
+  text-align: center;
+}
+
+.timeline {
+  width: 100%;
+  height: auto;
+  background: #ffffff;
+}
+
+.container {
+  margin: 15px auto;
+  width: 95%;
+  height: auto;
+}
+
+/* The actual content */
+.content {
+  margin: 5px auto;
+  padding: 10px 5px;
+  height: auto;
+  background: #ffffff;
+
+  border: 3px solid #334355;
+  border-radius: 15px;
+
+  text-align: left;
+}
+
+.content h2 {
+  padding-left: 15px;
+  font-family: "Raleway", sans-serif;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.5em;
+}
+.content ul {
+  margin: auto;
+  width: 90%;
+}
+.content ul li {
+  font-family: "Raleway", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5em;
+}
